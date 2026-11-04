@@ -44,8 +44,9 @@ Developers need a simple way to organize and track daily tasks without opening a
 
 ## 📷 Screenshots
 
- ![alt text](<asset/images/Screenshot From 2026-11-04 13-42-12.png>)
- ![alt text](<asset/images/Screenshot From 2026-11-04 13-41-18.png>)
+![alt text](<asset/images/Screenshot From 2026-11-04 13-41-18.png>)
+![alt text](<asset/images/Screenshot From 2026-11-04 13-42-12.png>)
+
 ---
 
 ## ⚙ Installation & Setup
