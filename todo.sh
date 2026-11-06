@@ -196,7 +196,7 @@ main() {
             cmd_add "$@"
             ;;
         list)
-            [[ $# -eq 1 ]] || die "Usage: ./todo.sh list"
+            [[ $# -le 1 ]] || die "Usage: ./todo.sh list"
             cmd_list
             ;;
         done)
